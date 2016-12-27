@@ -2,7 +2,7 @@
 spring-jsonp-support
 ====================
 
-aaaaAdds support for jsonp requests in Spring MVC controllers.
+Adds support for jsonp requests in Spring MVC controllers.
 
 
 Adding jsonp support for Spring MVC Controllers
